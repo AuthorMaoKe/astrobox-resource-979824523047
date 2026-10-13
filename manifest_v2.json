@@ -1,0 +1,50 @@
+{
+  "item": {
+    "id": "979824523047",
+    "restype": "watchface",
+    "name": "荧光",
+    "description": "MaoKe 荧光相册版表盘，专为红米 Watch6 打造。采用现代液态玻璃圆角卡片 UI，大字体时间清晰易读。支持相册自定义背景，可自由切换多种信息组件：运动数据（步数 / 距离 / 热量）、健康监测（心率 / 睡眠时长）、天气、日期农历、剩余电量，以及相机遥控、手电筒、体能训练、微信 / 支付快捷入口等功能图标。\n多种组件布局方案可选，模块通透不遮挡背景，兼顾颜值与实用性。简约高级的荧光磨砂质感，无论是日常通勤还是运动健身，一眼掌握全部信息。\n获取方式：爱发电搜索 MaoKe / 微信公众号 MaoKe 表盘",
+    "preview": [
+      "media/表盘截图_样式1_配色1.png",
+      "media/表盘截图_样式1_配色2.png",
+      "media/表盘截图_样式1_配色3.png",
+      "media/表盘截图_样式1_配色4.png",
+      "media/表盘截图_样式1_配色221.png"
+    ],
+    "icon": "media/表盘介绍与海报生成 (1)-04.png",
+    "cover": "media/表盘介绍与海报生成 (1)-03.png",
+    "author": [
+      {
+        "name": "MaoKe",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "MaoKe表盘",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=fr3sTghI1KXPgq2M7Pbn1OB6ZC%2BsEKReK6jIbouyU4wkKZN%2BgQXJP1ZgzW9XcsOe&busi_data=eyJncm91cENvZGUiOiI4NzY1MzU2OTUiLCJ0b2tlbiI6IlV6a1JIRE9LK253dUhidC9weG5xRFI0NzhwUTRBRTYvcnhGVUNhc2JrMWtKS25TMmlRTVVEYmZ3cW9jQzl2akEiLCJ1aW4iOiIyMDQzODcyNjAifQ%3D%3D&data=pi7KKom0c6-DythgZWXZ8sTbHRKhz-CASTiG2Vjy7u_kDwXv0IoeKZ7sThEgtuY2wdehLqnSRmjUSP6UG7TZ_Q&svctype=4&tempid=h5_group_info",
+      "icon": "chats-circle"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/萤光.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true,
+    "trialDownloads": {
+      "xmrw6": {
+        "version": "1.0.0",
+        "file_name": "downloads/trial/萤光水印.bin",
+        "versionCode": 65536
+      }
+    },
+    "wallpaperGenerator": {
+      "configUrl": "https://raw.githubusercontent.com/AuthorMaoKe/astrobox-resource-979824523047/main/wallpaper/wallpaper.json"
+    }
+  }
+}
