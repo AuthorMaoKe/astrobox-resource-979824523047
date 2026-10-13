@@ -22,9 +22,9 @@
   },
   "links": [
     {
-      "title": "MaoKe表盘",
-      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=fr3sTghI1KXPgq2M7Pbn1OB6ZC%2BsEKReK6jIbouyU4wkKZN%2BgQXJP1ZgzW9XcsOe&busi_data=eyJncm91cENvZGUiOiI4NzY1MzU2OTUiLCJ0b2tlbiI6IlV6a1JIRE9LK253dUhidC9weG5xRFI0NzhwUTRBRTYvcnhGVUNhc2JrMWtKS25TMmlRTVVEYmZ3cW9jQzl2akEiLCJ1aW4iOiIyMDQzODcyNjAifQ%3D%3D&data=pi7KKom0c6-DythgZWXZ8sTbHRKhz-CASTiG2Vjy7u_kDwXv0IoeKZ7sThEgtuY2wdehLqnSRmjUSP6UG7TZ_Q&svctype=4&tempid=h5_group_info",
-      "icon": "chats-circle"
+      "title": "爱发电购买链接",
+      "url": "https://afdian.com/item/57d075dcc5f411f193995254001e7c00",
+      "icon": "arrow-circle-down"
     }
   ],
   "downloads": {
@@ -42,9 +42,6 @@
         "file_name": "downloads/trial/萤光水印.bin",
         "versionCode": 65536
       }
-    },
-    "wallpaperGenerator": {
-      "configUrl": "https://raw.githubusercontent.com/AuthorMaoKe/astrobox-resource-979824523047/main/wallpaper/wallpaper.json"
     }
   }
 }
