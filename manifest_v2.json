@@ -11,7 +11,7 @@
       "media/表盘截图_样式1_配色4.png",
       "media/表盘截图_样式1_配色221.png"
     ],
-    "icon": "media/表盘介绍与海报生成 (1)-04.png",
+    "icon": "media/表盘介绍与海报生成 (1)-02.png",
     "cover": "media/表盘介绍与海报生成 (1)-03.png",
     "author": [
       {
@@ -35,7 +35,6 @@
     }
   },
   "ext": {
-    "enableAstroBoxCreatorFeatures": true,
     "trialDownloads": {
       "xmrw6": {
         "version": "1.0.0",
